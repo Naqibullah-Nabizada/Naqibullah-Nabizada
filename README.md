@@ -2,14 +2,6 @@
 - 🌱 I’m currently learning laravel and react
 - 📫 How to reach me: https://naqibullah.netlify.app
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naqib_nabizada" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naqibullah-nabizada-34a502243/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naqibullah_nabizada/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 </a> <a href="https://www.html.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a>
@@ -25,6 +17,8 @@
 <a href="https://git-github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> 
 <a href="https://https://code.visualstudio.com//" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
 </p>
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naqibullah-Nabizada&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naqibullah-nabizada&theme=dark)](https://git.io/streak-stats)
