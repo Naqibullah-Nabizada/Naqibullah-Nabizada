@@ -1,5 +1,6 @@
-### Hi there 👋
-### My name is Naqibullah my family is Nabizada. I'm fullstack developer.
+#### 👋 Hi, I'm @Naqibullah-Nabizada
+#### 🌱 I’m currently learning laravel and react
+#### 📫 How to reach me: https://naqibullah.netlify.app
 <!--
 **Naqibullah-Nabizada/Naqibullah-Nabizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
