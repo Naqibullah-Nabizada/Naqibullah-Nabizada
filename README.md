@@ -3,9 +3,6 @@
 - 📫 How to reach me: https://naqibullah.netlify.app
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naqibullah-Nabizada&show_icons=true&theme=chartreuse-dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naqibullah-nabizada&theme=dark)](https://git.io/streak-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naqib_nabizada" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -29,6 +26,8 @@
 <a href="https://https://code.visualstudio.com//" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naqibullah-Nabizada&show_icons=true&theme=chartreuse-dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naqibullah-nabizada&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Naqibullah-Nabizada/Naqibullah-Nabizada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
