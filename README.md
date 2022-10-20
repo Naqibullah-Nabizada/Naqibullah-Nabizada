@@ -1,5 +1,6 @@
-- 👋 Hi, I'm @Naqibullah-Nabizada
+- 👋 Hi, I'm Naqibullah-Nabizada
 - 🌱 I’m currently learning laravel and react
+- 💬 Ask me about Web development
 - 📫 How to reach me: https://naqibullah.netlify.app
 
 <h3 align="left">Languages and Tools:</h3>
