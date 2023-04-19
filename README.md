@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Naqibullah-Nabizada
-- 🌱 I’m currently learning laravel and react
+- 👋 Hi, I'm Naqibullah Nabizada
+- 🌱 I’m currently learning MERN technology
 - 💬 Ask me about Web development
 - 📫 How to reach me: https://naqibullah.netlify.app
 
